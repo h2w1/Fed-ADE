@@ -2,11 +2,10 @@
 
 > **CVPR 2026** | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_Fed-ADE_Adaptive_Learning_Rate_for_Federated_Post-adaptation_under_Distribution_Shift_CVPR_2026_paper.html) | [💻 Code](https://github.com/h2w1/Fed-ADE)
 
-**Heewon Park\*, Mugon Joe\*, Miru Kim\*, Kyungjin Im, Minhae Kwon†**
+**Heewon Park, Mugon Joe, Miru Kim, Kyungjin Im, Minhae Kwon†
 
-Sungkyunkwan University · Soongsil University
-
-(\* Equal contribution, † Corresponding author: minhae.kwon@skku.edu)
+Sungkyunkwan University
+(† Corresponding author: minhae.kwon@skku.edu)
 
 ---
 
