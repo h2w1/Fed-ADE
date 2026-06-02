@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+opencv-python

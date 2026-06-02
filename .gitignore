@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.log
+*.tar
+*.tar.gz
+*.zip
+experiments/**/data/
+experiments/**/CIFAR-10-C/
+experiments/**/CIFAR-100-C/
+experiments/**/tiny-imagenet-200/

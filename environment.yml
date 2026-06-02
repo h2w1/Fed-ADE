@@ -1,0 +1,21 @@
+name: pfl
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - tqdm
+  - matplotlib
+  - pytorch
+  - torchvision
+  # For CUDA builds, keep the next line and adjust the version for your driver.
+  # For CPU-only setup, remove this line.
+  - pytorch-cuda=12.1
+  - pip:
+      - opencv-python
